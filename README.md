@@ -23,6 +23,7 @@ g++ main.cpp -o library_system
 
 ## Running Tests
 1. Compile and run the test:
-g++ test_cases.cpp -o test_cases  
+
+g++ test_cases.cpp -o test_cases
 ./test_cases
  
