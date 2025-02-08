@@ -18,6 +18,7 @@ This project follows Object-Oriented Programming principles to ensure modularity
 
 ## Compiling and running the Program
 g++ main.cpp -o library_system
+
 ./library_system
 
 ## Running Tests
