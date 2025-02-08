@@ -12,3 +12,9 @@ A simple **C++** project that allows users to manage a library with functionalit
 1. **Clone the repository**  
    ```sh
    git clone https://github.com/justochieng/Library-System.git
+
+## Running Tests
+1. Compile and run the test
+  g++ test_cases.cpp -o test_cases  
+./test_cases
+ 
